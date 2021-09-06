@@ -1,0 +1,257 @@
+﻿DC,Item,variable,value
+Delaware,D6AMER,DOS Target,1
+Delaware,D6CAESR,DOS Target,1
+Delaware,D6LFCSR,DOS Target,1
+Delaware,D62ROM,DOS Target,1
+Delaware,DFAMUCR,DOS Target,1
+Delaware,D6CSPIN,DOS Target,1
+Delaware,D12SPIN,DOS Target,1
+Delaware,DMSWGRP,DOS Target,1
+Delaware,DMMCORN,DOS Target,1
+Delaware,DMMAPLC,DOS Target,1
+Delaware,D610AHW,DOS Target,1
+Delaware,D10VVEG,DOS Target,1
+Delaware,DROMFAM,DOS Target,1
+Delaware,D6HRTS,DOS Target,1
+Delaware,D6CPBBQ,DOS Target,1
+Delaware,D6CPCHI,DOS Target,1
+Delaware,DASICHP,DOS Target,1
+Delaware,DSUNKAL,DOS Target,1
+Delaware,D6BUTB,DOS Target,1
+Delaware,DAVORCH,DOS Target,1
+Delaware,DSWTKAL,DOS Target,1
+Delaware,DCPPRCH,DOS Target,1
+Delaware,DCPBUFR,DOS Target,1
+Delaware,D6CPCSR,DOS Target,1
+Delaware,D6ULCSR,DOS Target,1
+Delaware,D6CPGRK,DOS Target,1
+Delaware,DCPBCSR,DOS Target,1
+Delaware,D95ROM,DOS Target,1
+Delaware,D6ENSMR,DOS Target,1
+Delaware,D6SWEST,DOS Target,1
+Delaware,D1214SW,DOS Target,1
+Delaware,D128SHD,DOS Target,1
+Delaware,KRSLW16,DOS Target,1
+Delaware,KRHRT10,DOS Target,1
+Delaware,KRAMR12,DOS Target,1
+Delaware,KRPRM10,DOS Target,1
+Delaware,KRGRD12,DOS Target,1
+Delaware,KRFLDG8,DOS Target,1
+Delaware,KRGRD24,DOS Target,1
+Delaware,KRITL10,DOS Target,1
+Delaware,KRROM10,DOS Target,1
+Delaware,KRVEG12,DOS Target,1
+Delaware,KRSPN10,DOS Target,1
+Delaware,KRSPR10,DOS Target,1
+Delaware,KRSHDGL,DOS Target,1
+Delaware,KR6SM5,DOS Target,1
+Delaware,KR65050,DOS Target,1
+Delaware,KR6SP6,DOS Target,1
+Delaware,KRSHRD8,DOS Target,1
+Delaware,KROSP5,DOS Target,1
+Delaware,KROSP16,DOS Target,1
+Delaware,KROSM5,DOS Target,1
+Delaware,KROSM16,DOS Target,1
+Delaware,KROROM,DOS Target,1
+Delaware,KRO5050,DOS Target,1
+Delaware,KROARU,DOS Target,1
+Delaware,KROKALE,DOS Target,1
+Delaware,KROPWRG,DOS Target,1
+Delaware,KRO5016,DOS Target,1
+Delaware,KRTNSPN,DOS Target,1
+Delaware,KRCPKAL,DOS Target,1
+Delaware,KRARTSN,DOS Target,1
+Delaware,KRSRM8,DOS Target,1
+Atlanta,D6AMER,DOS Target,1
+Atlanta,D6CAESR,DOS Target,1
+Atlanta,D6LFCSR,DOS Target,1
+Atlanta,D62ROM,DOS Target,1
+Atlanta,DFAMUCR,DOS Target,1
+Atlanta,D6CSPIN,DOS Target,1
+Atlanta,D12SPIN,DOS Target,1
+Atlanta,D6ARUGL,DOS Target,1
+Atlanta,DMSWGRP,DOS Target,1
+Atlanta,DMMCORN,DOS Target,1
+Atlanta,DMMAPLC,DOS Target,1
+Atlanta,D610AHW,DOS Target,1
+Atlanta,D10VVEG,DOS Target,1
+Atlanta,DROMFAM,DOS Target,1
+Atlanta,D6HRTS,DOS Target,1
+Atlanta,D6CPBBQ,DOS Target,1
+Atlanta,D6CPCHI,DOS Target,1
+Atlanta,DASICHP,DOS Target,1
+Atlanta,DSUNKAL,DOS Target,1
+Atlanta,D6BUTB,DOS Target,1
+Atlanta,DAVORCH,DOS Target,1
+Atlanta,DSWTKAL,DOS Target,1
+Atlanta,DCPPRCH,DOS Target,1
+Atlanta,DCPBUFR,DOS Target,1
+Atlanta,D6CPCSR,DOS Target,1
+Atlanta,D6ULCSR,DOS Target,1
+Atlanta,D6CPGRK,DOS Target,1
+Atlanta,DCPBCSR,DOS Target,1
+Atlanta,D95ROM,DOS Target,1
+Atlanta,D6ENSMR,DOS Target,1
+Atlanta,D6SWEST,DOS Target,1
+Atlanta,D1214SW,DOS Target,1
+Atlanta,D14DSLW,DOS Target,1
+Atlanta,D128SHD,DOS Target,1
+Atlanta,KRSLW16,DOS Target,1
+Atlanta,KRHRT10,DOS Target,1
+Atlanta,KRAMR12,DOS Target,1
+Atlanta,KRPRM10,DOS Target,1
+Atlanta,KRGRD12,DOS Target,1
+Atlanta,KRFLDG8,DOS Target,1
+Atlanta,KRGRD24,DOS Target,1
+Atlanta,KRITL10,DOS Target,1
+Atlanta,KRROM10,DOS Target,1
+Atlanta,KRVEG12,DOS Target,1
+Atlanta,KRSPN10,DOS Target,1
+Atlanta,KRSPR10,DOS Target,1
+Atlanta,KRSHDGL,DOS Target,1
+Atlanta,KR6SM5,DOS Target,1
+Atlanta,KR65050,DOS Target,1
+Atlanta,KR6SP6,DOS Target,1
+Atlanta,KRSHRD8,DOS Target,1
+Atlanta,KROSP5,DOS Target,1
+Atlanta,KROSP16,DOS Target,1
+Atlanta,KROSM5,DOS Target,1
+Atlanta,KROSM16,DOS Target,1
+Atlanta,KROROM,DOS Target,1
+Atlanta,KRO5050,DOS Target,1
+Atlanta,KROARU,DOS Target,1
+Atlanta,KROKALE,DOS Target,1
+Atlanta,KROPWRG,DOS Target,1
+Atlanta,KRO5016,DOS Target,1
+Atlanta,KRTNSPN,DOS Target,1
+Atlanta,KRCPKAL,DOS Target,1
+Atlanta,KRARTSN,DOS Target,1
+Atlanta,KRSRM8,DOS Target,1
+Delaware,D6AMER,Plan_inc,10
+Delaware,D6CAESR,Plan_inc,10
+Delaware,D6LFCSR,Plan_inc,10
+Delaware,D62ROM,Plan_inc,40
+Delaware,DFAMUCR,Plan_inc,10
+Delaware,D6CSPIN,Plan_inc,10
+Delaware,D12SPIN,Plan_inc,10
+Delaware,DMSWGRP,Plan_inc,14
+Delaware,DMMCORN,Plan_inc,14
+Delaware,DMMAPLC,Plan_inc,14
+Delaware,D610AHW,Plan_inc,10
+Delaware,D10VVEG,Plan_inc,10
+Delaware,DROMFAM,Plan_inc,10
+Delaware,D6HRTS,Plan_inc,10
+Delaware,D6CPBBQ,Plan_inc,10
+Delaware,D6CPCHI,Plan_inc,10
+Delaware,DASICHP,Plan_inc,10
+Delaware,DSUNKAL,Plan_inc,10
+Delaware,D6BUTB,Plan_inc,10
+Delaware,DAVORCH,Plan_inc,10
+Delaware,DSWTKAL,Plan_inc,10
+Delaware,DCPPRCH,Plan_inc,10
+Delaware,DCPBUFR,Plan_inc,10
+Delaware,D6CPCSR,Plan_inc,10
+Delaware,D6ULCSR,Plan_inc,10
+Delaware,D6CPGRK,Plan_inc,10
+Delaware,DCPBCSR,Plan_inc,10
+Delaware,D95ROM,Plan_inc,10
+Delaware,D6ENSMR,Plan_inc,10
+Delaware,D6SWEST,Plan_inc,10
+Delaware,D1214SW,Plan_inc,10
+Delaware,D128SHD,Plan_inc,10
+Delaware,KRSLW16,Plan_inc,90
+Delaware,KRHRT10,Plan_inc,90
+Delaware,KRAMR12,Plan_inc,90
+Delaware,KRPRM10,Plan_inc,90
+Delaware,KRGRD12,Plan_inc,90
+Delaware,KRFLDG8,Plan_inc,120
+Delaware,KRGRD24,Plan_inc,60
+Delaware,KRITL10,Plan_inc,90
+Delaware,KRROM10,Plan_inc,90
+Delaware,KRVEG12,Plan_inc,90
+Delaware,KRSPN10,Plan_inc,72
+Delaware,KRSPR10,Plan_inc,72
+Delaware,KRSHDGL,Plan_inc,10
+Delaware,KR6SM5,Plan_inc,96
+Delaware,KR65050,Plan_inc,48
+Delaware,KR6SP6,Plan_inc,48
+Delaware,KRSHRD8,Plan_inc,120
+Delaware,KROSP5,Plan_inc,96
+Delaware,KROSP16,Plan_inc,45
+Delaware,KROSM5,Plan_inc,96
+Delaware,KROSM16,Plan_inc,45
+Delaware,KROROM,Plan_inc,48
+Delaware,KRO5050,Plan_inc,96
+Delaware,KROARU,Plan_inc,96
+Delaware,KROKALE,Plan_inc,48
+Delaware,KROPWRG,Plan_inc,96
+Delaware,KRO5016,Plan_inc,45
+Delaware,KRTNSPN,Plan_inc,60
+Delaware,KRCPKAL,Plan_inc,60
+Delaware,KRARTSN,Plan_inc,60
+Delaware,KRSRM8,Plan_inc,50
+Atlanta,D6AMER,Plan_inc,10
+Atlanta,D6CAESR,Plan_inc,10
+Atlanta,D6LFCSR,Plan_inc,10
+Atlanta,D62ROM,Plan_inc,10
+Atlanta,DFAMUCR,Plan_inc,10
+Atlanta,D6CSPIN,Plan_inc,10
+Atlanta,D12SPIN,Plan_inc,10
+Atlanta,D6ARUGL,Plan_inc,10
+Atlanta,DMSWGRP,Plan_inc,10
+Atlanta,DMMCORN,Plan_inc,10
+Atlanta,DMMAPLC,Plan_inc,10
+Atlanta,D610AHW,Plan_inc,10
+Atlanta,D10VVEG,Plan_inc,10
+Atlanta,DROMFAM,Plan_inc,10
+Atlanta,D6HRTS,Plan_inc,10
+Atlanta,D6CPBBQ,Plan_inc,10
+Atlanta,D6CPCHI,Plan_inc,10
+Atlanta,DASICHP,Plan_inc,10
+Atlanta,DSUNKAL,Plan_inc,10
+Atlanta,D6BUTB,Plan_inc,10
+Atlanta,DAVORCH,Plan_inc,10
+Atlanta,DSWTKAL,Plan_inc,10
+Atlanta,DCPPRCH,Plan_inc,10
+Atlanta,DCPBUFR,Plan_inc,10
+Atlanta,D6CPCSR,Plan_inc,10
+Atlanta,D6ULCSR,Plan_inc,10
+Atlanta,D6CPGRK,Plan_inc,10
+Atlanta,DCPBCSR,Plan_inc,10
+Atlanta,D95ROM,Plan_inc,10
+Atlanta,D6ENSMR,Plan_inc,10
+Atlanta,D6SWEST,Plan_inc,10
+Atlanta,D1214SW,Plan_inc,10
+Atlanta,D14DSLW,Plan_inc,10
+Atlanta,D128SHD,Plan_inc,10
+Atlanta,KRSLW16,Plan_inc,90
+Atlanta,KRHRT10,Plan_inc,90
+Atlanta,KRAMR12,Plan_inc,90
+Atlanta,KRPRM10,Plan_inc,90
+Atlanta,KRGRD12,Plan_inc,90
+Atlanta,KRFLDG8,Plan_inc,120
+Atlanta,KRGRD24,Plan_inc,60
+Atlanta,KRITL10,Plan_inc,90
+Atlanta,KRROM10,Plan_inc,90
+Atlanta,KRVEG12,Plan_inc,90
+Atlanta,KRSPN10,Plan_inc,72
+Atlanta,KRSPR10,Plan_inc,72
+Atlanta,KRSHDGL,Plan_inc,10
+Atlanta,KR6SM5,Plan_inc,96
+Atlanta,KR65050,Plan_inc,96
+Atlanta,KR6SP6,Plan_inc,96
+Atlanta,KRSHRD8,Plan_inc,120
+Atlanta,KROSP5,Plan_inc,96
+Atlanta,KROSP16,Plan_inc,45
+Atlanta,KROSM5,Plan_inc,96
+Atlanta,KROSM16,Plan_inc,45
+Atlanta,KROROM,Plan_inc,96
+Atlanta,KRO5050,Plan_inc,96
+Atlanta,KROARU,Plan_inc,96
+Atlanta,KROKALE,Plan_inc,96
+Atlanta,KROPWRG,Plan_inc,96
+Atlanta,KRO5016,Plan_inc,45
+Atlanta,KRTNSPN,Plan_inc,60
+Atlanta,KRCPKAL,Plan_inc,10
+Atlanta,KRARTSN,Plan_inc,10
+Atlanta,KRSRM8,Plan_inc,10
